@@ -1,0 +1,4 @@
+Start, Stop, Continue, More of, Less of Wheel on retrospektiivitekniikka, jossa tiimi tarkastelee omaa tiimityöskentelyään viiden kategorian avulla. Nämä ovat: 1 Mitä uutta tiimin työprosessiin voisi tulla. 2. Mikä tiimityöskentelyssä ei toimi ja tulisi jättää pois. 3. Mikä toimii ja sitä tulisi jatkaa. 4. Mitä pitäisi tehdä enemmän. 5 Mitä pitäisi tehdä vähemmän.
+
+Glad, Sad, Mad on toinen retrospektiivitekniikka, jossa tiimi tarkastelee miten viime sprintti on oikein mennyt. Tämä retrospektiivitekniikka ei rajoitu vain tiimin oman työskentelyn arviointiin vaan myös miten ulkoiset muuttujat, kuten tiimin käyttämät sovellukset toimivat. Nämä asiat tuodaan esille jakamalla ne kolmeen kategoriaan: 1. Mistä asioista tiimiläiset ovat tyytyväisiä. 2. Mistä asioista tiimiläiset ovat "surullisia". 3. Mistä asioista tiimiläiset ovat suorastaan vihaisia.
+
